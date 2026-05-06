@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+bot/node_modules/
+bot/.env
+bot/.env.local
+
+nombre-quickingles-discord-bot/.env
+nombre-quickingles-discord-bot/.venv/
+nombre-quickingles-discord-bot/venv/
+nombre-quickingles-discord-bot/__pycache__/
+
+desktop.ini
