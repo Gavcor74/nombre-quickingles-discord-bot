@@ -13,4 +13,10 @@ nombre-quickingles-discord-bot/.venv/
 nombre-quickingles-discord-bot/venv/
 nombre-quickingles-discord-bot/__pycache__/
 
+quickingles-slp-bot/.env
+quickingles-slp-bot/.env.local
+quickingles-slp-bot/.venv/
+quickingles-slp-bot/venv/
+quickingles-slp-bot/__pycache__/
+
 desktop.ini

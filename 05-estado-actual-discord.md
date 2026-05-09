@@ -55,6 +55,17 @@ Estado: en construccion.
 
 - Reaction roles funcionando en `bienvenida`.
 - La reaccion asigna automaticamente el rol `Alumno SLP Funcional`.
+- Carl-bot actua como puerta de entrada del alumno al servidor.
+
+## Quickingles SLP Bot - Hecho
+
+- Bot propio operativo en local.
+- Detecta cuando el alumno recibe el rol `Alumno SLP Funcional`.
+- Crea automaticamente el canal privado `writing-nombre`.
+- Publica instrucciones dentro del canal writing.
+- Avisa en `admin-bot`.
+- No envia DM privado al alumno.
+- Flujo validado con Jesus Assistant y Oliver.
 
 ## Carl-bot - Pendiente
 
@@ -77,8 +88,8 @@ Estado: en construccion.
 
 ### Fases posteriores
 
-- Bot personalizado en Node.js + discord.js v14.
-- Posible integracion con Anthropic/Claude.
+- Writing Feedback Assistant v1 sobre el bot Python actual.
+- Posible integracion posterior con Anthropic/Claude, OpenAI o Gemini.
 - Posible seguimiento de progreso por alumno.
 - Quiz Bot para simulacros de opcion multiple con rangos de puntuacion y feedback calibrado al objetivo SLP 2.
 

@@ -12,6 +12,12 @@ C:\Users\Jesus\OneDrive\Escritorio HP Casa\DISCORD SLP\fuentes\marco_legal_slp_o
 
 existe, pero en el momento de revisarlo aparece con tamano `0 bytes`.
 
+Tambien se ha incorporado como fuente PDF:
+
+```text
+C:\Users\Jesus\OneDrive\Escritorio HP Casa\DISCORD SLP\fuentes\Orden Ministerial 2_2022, de 12 de enero.pdf
+```
+
 ## Uso previsto
 
 Este documento servira como referencia interna para:
